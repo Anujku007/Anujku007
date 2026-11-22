@@ -1,305 +1,140 @@
+<!-- GitHub Profile README | github.com/Anujku007 -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Anuj%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Anuj Kumar banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=205&color=0:0B1220,50:123A58,100:276A84&text=Anuj%20Kumar&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20%7C%20Software%20Engineering&descSize=17&descAlignY=62&animation=fadeIn" alt="Anuj Kumar — AI and Software Engineering" width="100%" />
 
-# 👋 Hi, I'm Anuj Kumar
+### Building AI applications that solve real problems.
 
-### AI & Machine Learning Developer | Full-Stack Development | MLOps
+**AI/ML Development · AI Agents · Full-Stack Engineering · MLOps**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&pause=1100&color=38BDF8&center=true&vCenter=true&width=820&lines=Building+end-to-end+AI+applications;Machine+Learning+%7C+Deep+Learning+%7C+NLP;FastAPI+%7C+React+%7C+Python;Exploring+MLOps+and+cloud+deployment" alt="AI, machine learning and software development" />
-
-<br />
-
-<a href="https://github.com/Anujku007?tab=followers"><img src="https://img.shields.io/github/followers/Anujku007?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=Anujku007&style=for-the-badge&color=0e75b6" alt="Profile views" />
+<a href="https://github.com/Anujku007?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories"></a>
+<a href="https://www.linkedin.com/in/anuj-kumar-836680298/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://leetcode.com/u/Anuj_kumar0007/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+## 👋 About me
 
-<div align="center">
+I'm **Anuj Kumar**, a developer focused on **artificial intelligence, machine learning, and building usable software around models**. I enjoy taking an idea beyond a notebook—designing the data and model pipeline, developing APIs, building user-facing workflows, and testing how the system behaves in practice.
 
-<a href="https://github.com/Anujku007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/anuj-kumar-836680298/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/Anuj_kumar0007/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-<a href="https://github.com/Anujku007?tab=repositories"><img src="https://img.shields.io/badge/Projects-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="My projects" /></a>
+My projects span **NVIDIA-powered AI voice agents**, **AI-assisted financial workflows**, **full-stack career platforms**, **ML-powered security**, and **deployed prediction applications**.
 
-</div>
+- 🤖 **AI & Deep Learning:** NLP, neural networks, intelligent automation, and practical model inference.
+- 🧩 **Software Engineering:** Python/FastAPI, Flask, REST APIs, React, Node.js, and databases.
+- ⚙️ **MLOps:** MLflow, Docker, model serving, experiment tracking, and deployment workflows.
+- 📚 **Always improving:** Data structures, algorithms, system design, and production-oriented development.
 
----
+## 🚀 Featured projects
 
-# 💫 About Me
-
-```yaml
-Name     : Anuj Kumar
-Focus    : AI/ML applications, full-stack development and MLOps
-Languages: Python, JavaScript
-Building : End-to-end ML pipelines and useful web applications
-Learning : Model deployment, cloud workflows and production engineering
-```
-
-### 🚀 A Little About Me
-
-I enjoy turning machine-learning experiments into applications people can use. My repositories span **student performance prediction**, **phishing detection**, **deep-learning and NLP applications**, and **full-stack platforms** built with React and Node.js. I also explore the operational side of AI through **FastAPI, Docker, MLflow, CI/CD and cloud deployment**.
-
-- 🔭 Exploring practical AI systems and full-stack products
-- 🧠 Interested in machine learning, deep learning, NLP and MLOps
-- 🛠️ Building reproducible pipelines and deploying models as APIs
-- 💬 Happy to connect about Python, ML projects and software engineering
-
----
-
-# 💻 Tech Stack
-
-## 👨‍💻 Programming & Web Foundations
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Python, JavaScript, HTML and CSS" />
-
----
-
-## 🤖 AI, Machine Learning & Data
-
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" alt="TensorFlow, scikit-learn and OpenCV" />
-
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/BentoML-Model%20Serving-5B57D1?style=flat-square" alt="BentoML" />
-
----
-
-## ⚙ Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,mongodb,sqlite" alt="FastAPI, Flask, Node.js, Express, MongoDB and SQLite" />
-
----
-
-## 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="React, Vite and Tailwind CSS" />
-
----
-
-## 🛠 Developer Tools, MLOps & Cloud
-
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,vscode,vercel" alt="Docker, AWS, Git, GitHub, GitHub Actions, VS Code and Vercel" />
-
----
-
-# 🚀 Featured Projects
+These are representative projects from my GitHub repositories. Follow the links for implementation details, architecture, and setup instructions.
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🎓 EduPredict-AI
-
-End-to-end student mathematics score prediction: data ingestion, preprocessing, model selection and a deployed Flask web app.
-
-**Tech:** Python · Scikit-learn · Pandas · Flask · Vercel
-
-**Highlights**
-- Modular ML training and prediction pipelines
-- Live prediction interface
-
-[💻 Repository](https://github.com/Anujku007/EduPredict-AI) · [🌐 Live demo](https://edu-predict-ai-two.vercel.app)
-
+<h3>🎙️ <a href="https://github.com/Anujku007/LeadPilot-AI">LeadPilot AI</a></h3>
+<p><b>NVIDIA-powered AI voice sales agent</b></p>
+<p>Voice conversations, BANT lead qualification, SQLite CRM, and Google Calendar scheduling. Includes a secure Twilio-compatible fallback with persistent replay protection.</p>
+<p><code>Python</code> <code>FastAPI</code> <code>NVIDIA Nemotron</code> <code>Parakeet</code> <code>Magpie</code> <code>SQLite</code></p>
+<p><b>Highlight:</b> 89 passing automated tests in the development environment; locally tested portfolio MVP. Real NVIDIA-powered telephone calls are not yet deployed.</p>
 </td>
 <td width="50%" valign="top">
-
-### 🛡️ Network Security
-
-An MLOps-focused phishing website detection system, connecting model development with API serving and deployment workflows.
-
-**Tech:** Python · FastAPI · MLflow · Docker · MongoDB · AWS
-
-**Highlights**
-- ML pipeline and prediction API
-- CI/CD and cloud deployment architecture
-
-[💻 Repository](https://github.com/Anujku007/NetWorkSecurity)
-
+<h3>💳 <a href="https://github.com/Anujku007/DunnFlow">DunnFlow</a></h3>
+<p><b>AI-assisted subscription revenue recovery</b></p>
+<p>A research prototype for analyzing failed subscription payments, recommending bounded recovery actions, reconciling events, and keeping an auditable decision history.</p>
+<p><code>Python</code> <code>FastAPI</code> <code>SQLite</code> <code>AI</code> <code>Razorpay Test Mode</code></p>
+<p><b>Highlight:</b> AI recommendations operate within deterministic recovery guardrails.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 💳 DunnFlow
-
-AI-assisted subscription payment recovery prototype with controlled actions, failure diagnosis and outcome tracking.
-
-**Tech:** Python · FastAPI · SQLite · Razorpay Test Mode
-
-**Highlights**
-- Policy-guarded recovery decisions
-- Payment event reconciliation and audit trails
-
-[💻 Repository](https://github.com/Anujku007/DunnFlow)
-
+<h3>💼 <a href="https://github.com/Anujku007/JOBSEEKER">JOBSEEKER</a></h3>
+<p><b>Job discovery and applicant tracking platform</b></p>
+<p>Full-stack application supporting candidate job discovery, saved jobs, applications, recruiter workflows, and an applicant-tracking experience.</p>
+<p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Tailwind CSS</code></p>
+<p><b>Highlight:</b> Combines candidate and recruiter journeys in one system.</p>
 </td>
 <td width="50%" valign="top">
-
-### 💼 JOBSEEKER
-
-Full-stack job discovery and applicant tracking platform connecting candidates and recruiters.
-
-**Tech:** React · Node.js · Express · MongoDB · Tailwind CSS
-
-**Highlights**
-- Candidate applications and saved jobs
-- Recruiter ATS and role-based access
-
-[💻 Repository](https://github.com/Anujku007/JOBSEEKER)
-
+<h3>🛡️ <a href="https://github.com/Anujku007/NetWorkSecurity">Network Security</a></h3>
+<p><b>ML-driven phishing website detection</b></p>
+<p>An end-to-end machine learning and MLOps project covering data workflows, model training, API serving, and deployment tooling.</p>
+<p><code>Scikit-learn</code> <code>FastAPI</code> <code>MLflow</code> <code>Docker</code> <code>MongoDB</code></p>
+<p><b>Highlight:</b> Connects ML experimentation to deployable services.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🧠 ANN Customer Churn Prediction
-
-Deep-learning app that estimates customer churn risk from structured customer data.
-
-**Tech:** Python · TensorFlow · Keras · Streamlit
-
-**Highlights**
-- Neural-network classification
-- Interactive prediction workflow
-
-[💻 Repository](https://github.com/Anujku007/ANN-Customer-Churn-Prediction)
-
+<h3>🎓 <a href="https://github.com/Anujku007/EduPredict-AI">EduPredict AI</a></h3>
+<p><b>Student performance prediction</b></p>
+<p>An end-to-end ML pipeline for predicting mathematics scores, from preprocessing and model evaluation to a Flask prediction interface.</p>
+<p><code>Python</code> <code>Scikit-learn</code> <code>Pandas</code> <code>Flask</code></p>
+<p><a href="https://edu-predict-ai-two.vercel.app">Demo</a> · <a href="https://github.com/Anujku007/EduPredict-AI">Source code</a></p>
 </td>
 <td width="50%" valign="top">
-
-### 📖 Next Word Prediction
-
-LSTM-based NLP application trained on *Hamlet*, with a Streamlit interface for next-word suggestions.
-
-**Tech:** Python · TensorFlow · Keras · NLP · Streamlit
-
-**Highlights**
-- Text tokenization and sequence modeling
-- Interactive model inference
-
-[💻 Repository](https://github.com/Anujku007/Next_word_prediction) · [🌐 Live demo](https://nextwordprediction-8szyllrqngkue9os3ka4cr.streamlit.app/)
-
+<h3>🧠 <a href="https://github.com/Anujku007/ANN-Customer-Churn-Prediction">ANN Customer Churn Prediction</a></h3>
+<p><b>Deep learning for customer retention analysis</b></p>
+<p>Trains an artificial neural network to estimate banking customer churn, with preprocessing and a Streamlit-based prediction interface.</p>
+<p><code>TensorFlow</code> <code>Keras</code> <code>Python</code> <code>Streamlit</code></p>
+<p><a href="https://github.com/Anujku007/ANN-Customer-Churn-Prediction">Source code &amp; demo details</a></p>
 </td>
 </tr>
 </table>
 
----
+### 🔬 More work in machine learning & NLP
 
-# 📊 GitHub Analytics
+- 📖 **[Next Word Prediction](https://github.com/Anujku007/Next_word_prediction)** — LSTM language model with a Streamlit interface.
+- 🎬 **[IMDB Sentiment Analysis](https://github.com/Anujku007/Simple-RNN-Movie-Review-Sentiment-Analysis-IMDB-)** — Simple RNN for positive/negative movie review classification.
+- 📊 **[MLflow Experiment Tracking](https://github.com/Anujku007/Machine_Learning_Experiment_Tracking_with_MLflow)** — Tracking model parameters, metrics, and artifacts with MLflow and DagsHub.
+- 📦 **[BentoML Iris Classifier](https://github.com/Anujku007/BentoML_iris_dataset_)** — Packaging and serving an SVM classifier via a model API.
+- 🧠 **[DSA Practice](https://github.com/Anujku007/DSA)** — Algorithms and problem-solving practice.
+
+## 🛠️ Technologies I work with
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Anujku007&show_icons=true&theme=tokyonight&hide_border=true" alt="Anuj's GitHub statistics" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujku007&layout=compact&theme=tokyonight&hide_border=true" alt="Anuj's top repository languages" />
+**Languages & web**
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express,flask,fastapi,tailwind" alt="Python, JavaScript, HTML, CSS, React, Node.js, Express, Flask, FastAPI and Tailwind CSS" />
+
+**AI, data & databases**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,mongodb,sqlite" alt="TensorFlow, scikit-learn, OpenCV, MongoDB and SQLite" />
+
+**Tools & deployment**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,vercel" alt="Git, GitHub, Docker, AWS, VS Code and Vercel" />
+
+<br>
+
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square" alt="MLflow"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/NVIDIA%20AI-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA AI"> <img src="https://img.shields.io/badge/BentoML-4F46E5?style=flat-square" alt="BentoML">
 
 </div>
 
----
-
-# 🔥 GitHub Streak
+## 📊 GitHub activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Anujku007&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujku007&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most-used languages in public repositories" height="170">
+<img src="https://streak-stats.demolab.com?user=Anujku007&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" height="170">
 
 </div>
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anujku007&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
-
-</div>
-
----
-
-# 🏆 GitHub Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anujku007&theme=tokyonight" alt="GitHub profile summary" />
-
-</div>
-
----
-
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anujku007&theme=tokyonight&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub profile trophies" />
-
-</div>
-
----
-
-# 💻 Coding Profiles
-
-| Platform | Profile |
-|---|---|
-| 🐙 GitHub | [@Anujku007](https://github.com/Anujku007) |
-| 🧩 LeetCode | [Anuj_kumar0007](https://leetcode.com/u/Anuj_kumar0007/) |
-| ☕ NeetCode practice | [Coding submissions](https://github.com/Anujku007/neetcode-submissions) |
-
----
-
-# 💡 Technical Expertise
-
-```text
-✔ Python-based ML pipelines and model evaluation
-✔ Neural networks, LSTM models and NLP experiments
-✔ FastAPI and Flask services for model inference
-✔ MERN applications with authentication and APIs
-✔ MLOps workflows using Docker, MLflow and CI/CD
-✔ Model serving and deployment with BentoML and cloud tools
-```
-
----
-
-# 💼 Areas of Interest
-
-| Applied AI | Full-Stack Engineering | MLOps & Deployment |
-|---|---|---|
-| Prediction & classification | React interfaces | Experiment tracking |
-| NLP & deep learning | Node.js APIs | Containerization |
-| Intelligent automation | Database-backed platforms | CI/CD & cloud hosting |
-
----
-
-# 📬 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/anuj-kumar-836680298/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-<a href="https://github.com/Anujku007?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects" /></a>
-<a href="https://leetcode.com/u/Anuj_kumar0007/"><img src="https://img.shields.io/badge/LeetCode-Coding%20Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Coding practice" /></a>
-
-</div>
-
----
-
-# 💬 Quote
-
-> "Build something useful. Learn from the results. Make it better."
+<sub>These charts are generated by third-party services and may occasionally be unavailable. Language statistics describe repository content, not proficiency.</sub>
 
 ---
 
 <div align="center">
 
-## 🚀 Thanks for Visiting My Profile!
+### 🤝 Let's connect
 
-### ⭐ If you find a project useful, consider starring its repository.
+I enjoy discussing useful AI products, machine-learning engineering, and software development.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" alt="Wave footer" />
+<a href="https://www.linkedin.com/in/anuj-kumar-836680298/">LinkedIn</a> · <a href="https://leetcode.com/u/Anuj_kumar0007/">LeetCode</a> · <a href="https://github.com/Anujku007?tab=repositories">All GitHub projects</a>
+
+<br><br>
+
+**Thanks for visiting!**
 
 </div>
